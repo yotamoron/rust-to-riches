@@ -1,5 +1,6 @@
 Practicing Rust - from the easiest to the hardest.
 
+
 ### Phase 1: Syntax, Ownership, and Muscle Memory
 
 **1. Temperature Converter**
