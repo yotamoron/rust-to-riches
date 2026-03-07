@@ -97,7 +97,3 @@ Create a simulation of a basic blockchain. Define a `Block` struct containing an
 
 **30. CHIP-8 Emulator**
 The ultimate capstone. Build an emulator for the 1970s CHIP-8 system. You will need to model the CPU (registers, program counter, index register), 4KB of RAM, a 64x32 monochrome display, and a hex keyboard. You will read binary ROM files, decode the opcodes bit-by-bit, and execute the correct instructions. Connect the display buffer to a windowing crate like `minifb` to actually play games like Pong or Space Invaders.
-
----
-
-Would you like me to generate the full starting code, project setup instructions, and test cases for **Exercise 1: Temperature Converter** to get you officially coding?
