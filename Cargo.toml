@@ -1,4 +1,7 @@
 [workspace]
 resolver = "3"
-members = ["cli-calculator","nth-fibonacci-generator","number-guessing-game","temp-converter"]
+members = ["cli-calculator","nth-fibonacci-generator","number-guessing-game", "pig-latin-converter","temp-converter"]
 
+
+[workspace.dependencies]
+rand = "0.10.0"
