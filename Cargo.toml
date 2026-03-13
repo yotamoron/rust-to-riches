@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["cli-calculator", "mean-median-and-mode-finder","nth-fibonacci-generator","number-guessing-game", "pig-latin-converter", "shape-area-calculator","temp-converter"]
+members = ["cli-calculator", "company-directory", "mean-median-and-mode-finder","nth-fibonacci-generator","number-guessing-game", "pig-latin-converter", "shape-area-calculator","temp-converter"]
 
 
 [workspace.dependencies]
