@@ -1,7 +1,9 @@
 [workspace]
 resolver = "3"
-members = ["cli-calculator", "company-directory", "custom-error-types", "mean-median-and-mode-finder","nth-fibonacci-generator","number-guessing-game", "pig-latin-converter", "shape-area-calculator", "simple-todo-list","temp-converter"]
+members = ["cli-calculator", "company-directory", "custom-error-types", "mean-median-and-mode-finder", "minigrep","nth-fibonacci-generator","number-guessing-game", "pig-latin-converter", "shape-area-calculator", "simple-todo-list","temp-converter"]
 
 
 [workspace.dependencies]
 rand = "0.10.0"
+clap = "4.6.0"
+
